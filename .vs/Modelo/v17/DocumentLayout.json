@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Algoritmos\\Semana 11\\Modelo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Companero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|solutionrelative:Modelo\\Companero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Juego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|solutionrelative:Modelo\\Juego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Companero.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|solutionrelative:Modelo\\Companero.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\CompaneroL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|solutionrelative:Modelo\\CompaneroL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\CompaneroL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|solutionrelative:Modelo\\CompaneroL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Juego.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|solutionrelative:Modelo\\Juego.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Modelo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|solutionrelative:Modelo\\Modelo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Background.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|solutionrelative:Modelo\\Background.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|solutionrelative:Modelo\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|solutionrelative:Modelo\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|solutionrelative:Modelo\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|solutionrelative:Modelo\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|solutionrelative:Modelo\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Entidad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|solutionrelative:Modelo\\Entidad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Background.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|solutionrelative:Modelo\\Background.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Entidad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D2B19F9-4D64-416D-9B22-DA30C2909E40}|Modelo\\Modelo.vcxproj|solutionrelative:Modelo\\Entidad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompaneroL.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\CompaneroL.cpp",
+              "RelativeDocumentMoniker": "Modelo\\CompaneroL.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\CompaneroL.cpp",
+              "RelativeToolTip": "Modelo\\CompaneroL.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T08:00:53.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompaneroL.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\CompaneroL.h",
+              "RelativeDocumentMoniker": "Modelo\\CompaneroL.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\CompaneroL.h",
+              "RelativeToolTip": "Modelo\\CompaneroL.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T08:00:08.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Companero.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Companero.cpp",
+              "RelativeDocumentMoniker": "Modelo\\Companero.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Companero.cpp",
+              "RelativeToolTip": "Modelo\\Companero.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T06:51:32.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Companero.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Companero.h",
+              "RelativeDocumentMoniker": "Modelo\\Companero.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Companero.h",
+              "RelativeToolTip": "Modelo\\Companero.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T06:16:33.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Entidad.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Entidad.h",
+              "RelativeDocumentMoniker": "Modelo\\Entidad.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Entidad.h",
+              "RelativeToolTip": "Modelo\\Entidad.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T05:35:42.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Entidad.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Entidad.cpp",
+              "RelativeDocumentMoniker": "Modelo\\Entidad.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Entidad.cpp",
+              "RelativeToolTip": "Modelo\\Entidad.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwBgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T05:36:02.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Background.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Background.cpp",
+              "RelativeDocumentMoniker": "Modelo\\Background.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Background.cpp",
+              "RelativeToolTip": "Modelo\\Background.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T06:08:44.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Background.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Background.h",
+              "RelativeDocumentMoniker": "Modelo\\Background.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Background.h",
+              "RelativeToolTip": "Modelo\\Background.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T05:49:27.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Player.h",
+              "RelativeDocumentMoniker": "Modelo\\Player.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Player.h",
+              "RelativeToolTip": "Modelo\\Player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T05:50:16.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Player.cpp",
+              "RelativeDocumentMoniker": "Modelo\\Player.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Player.cpp",
+              "RelativeToolTip": "Modelo\\Player.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T05:50:29.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyForm.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\MyForm.cpp",
+              "RelativeDocumentMoniker": "Modelo\\MyForm.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\MyForm.cpp",
+              "RelativeToolTip": "Modelo\\MyForm.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T05:50:55.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\MyForm.h",
+              "RelativeDocumentMoniker": "Modelo\\MyForm.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\MyForm.h",
+              "RelativeToolTip": "Modelo\\MyForm.h",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAiwFoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T05:54:27.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Juego.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Juego.cpp",
+              "RelativeDocumentMoniker": "Modelo\\Juego.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Juego.cpp",
+              "RelativeToolTip": "Modelo\\Juego.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T06:01:28.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Juego.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Juego.h",
+              "RelativeDocumentMoniker": "Modelo\\Juego.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Juego.h",
+              "RelativeToolTip": "Modelo\\Juego.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T06:00:53.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyForm.h [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\MyForm.h",
+              "RelativeDocumentMoniker": "Modelo\\MyForm.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\MyForm.h [Dise\u00F1o]",
+              "RelativeToolTip": "Modelo\\MyForm.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T05:35:07.649Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Modelo.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Modelo.cpp",
+              "RelativeDocumentMoniker": "Modelo\\Modelo.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 11\\Modelo\\Modelo\\Modelo.cpp",
+              "RelativeToolTip": "Modelo\\Modelo.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T05:30:07.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
